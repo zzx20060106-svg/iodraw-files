@@ -61,7 +61,7 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-229" value="数据采集" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#FF99CC;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-40" y="516" width="332" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-230" value="有问题免费修改" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#9933FF;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ktdcQTFvYibY1Uf1pSOm-230" value="方案执行" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#9933FF;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-42" y="835" width="332" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-231" value="中医评估：用户填写问卷，系统自动判断体质&lt;div&gt;西医评估：用户录入或同步西医临床指标&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
