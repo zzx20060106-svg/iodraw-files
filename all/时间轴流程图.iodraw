@@ -82,8 +82,8 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-235" value="中医指导：根据体质推送药膳食谱，养生功法等&lt;div&gt;西医指导：针对性推送疾病护理知识，饮食禁忌等&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="430" y="440" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-236" value="1.文章绝对保密，服务完立马&lt;br&gt;销毁，绝不保存&lt;div&gt;2.确定方向本店将以最快速度&lt;br&gt;最高质量完成服务。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="494" y="727" width="281" height="123" as="geometry" />
+        <mxCell id="ktdcQTFvYibY1Uf1pSOm-236" value="1.AI实时分析数据，一旦发现异常，&lt;div&gt;立即发出预警并给出干预建议&lt;br&gt;&lt;div&gt;2.医生介入：异常数据同步到医生端，&lt;br&gt;&lt;/div&gt;&lt;div&gt;在线诊疗&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="494" y="727" width="340" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
