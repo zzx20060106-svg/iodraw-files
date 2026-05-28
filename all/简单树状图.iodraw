@@ -104,7 +104,7 @@
           <mxGeometry x="-312" y="209" width="332" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-34" value="&lt;b style=&quot;font-size: 18px&quot;&gt;中西医健康档案&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;西医体征监测&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;中医体质辨识&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;舌面诊上传&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;检查报告查询&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="48" y="28.5" width="332" height="121.5" as="geometry" />
+          <mxGeometry x="36" y="28.5" width="332" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-35" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;fillColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="482" y="564" width="62.400000000000006" height="62.400000000000006" as="geometry" />
