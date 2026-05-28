@@ -103,7 +103,7 @@
         <mxCell id="ELuROfRh7jPEYIWg2EeA-33" value="&lt;b style=&quot;font-size: 18px&quot;&gt;标题&lt;br&gt;内容、内容、内容&lt;br&gt;内容、内容、内容&lt;br&gt;内容、内容、内容&lt;/b&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="-312" y="209" width="332" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="ELuROfRh7jPEYIWg2EeA-34" value="&lt;b style=&quot;font-size: 18px&quot;&gt;中西医健康档案&lt;br&gt;内容、内容、内容&lt;br&gt;内容、内容、内容&lt;/b&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="ELuROfRh7jPEYIWg2EeA-34" value="&lt;b style=&quot;font-size: 18px&quot;&gt;中西医健康档案&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;西医体征监测&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="36" y="28.5" width="332" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-35" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;fillColor=#666666;" parent="1" vertex="1">
