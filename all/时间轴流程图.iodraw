@@ -58,7 +58,7 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-228" value="双重评估" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#97D077;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-39" y="219" width="332" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-229" value="将文章发给买家" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#FF99CC;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ktdcQTFvYibY1Uf1pSOm-229" value="数据采集" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#FF99CC;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-40" y="516" width="332" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-230" value="有问题免费修改" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#9933FF;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
