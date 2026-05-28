@@ -65,7 +65,7 @@
           <mxGeometry x="-42" y="835" width="332" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-231" value="中医评估：用户填写问卷，系统自动判断体质&lt;div&gt;西医评估：用户录入或同步西医临床指标&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-3" y="280" width="400" height="50" as="geometry" />
+          <mxGeometry x="-50" y="300" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-232" value="电子邮箱，QQ，或者旺旺在线传&lt;br&gt;输，不支持纸质邮寄" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-5" y="576" width="317" height="50" as="geometry" />
@@ -79,8 +79,8 @@
         <mxCell id="KSMDhPxvgQcWq4mFELN0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktdcQTFvYibY1Uf1pSOm-235" target="ktdcQTFvYibY1Uf1pSOm-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-235" value="中医指导根据体质推送药膳食谱，养生功法" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="430" y="440" width="380" height="30" as="geometry" />
+        <mxCell id="ktdcQTFvYibY1Uf1pSOm-235" value="中医指导：根据体质推送药膳食谱，养生功法等&lt;div&gt;西医指导：针对性推送疾病护理知识，饮食禁忌等&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="430" y="440" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-236" value="1.文章绝对保密，服务完立马&lt;br&gt;销毁，绝不保存&lt;div&gt;2.确定方向本店将以最快速度&lt;br&gt;最高质量完成服务。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="494" y="727" width="281" height="123" as="geometry" />
