@@ -67,8 +67,8 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-231" value="中医评估：用户填写问卷，系统自动判断体质&lt;div&gt;西医评估：用户录入或同步西医临床指标&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-50" y="300" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-232" value="手动录入输，不支持纸质邮寄" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-5" y="576" width="270" height="30" as="geometry" />
+        <mxCell id="ktdcQTFvYibY1Uf1pSOm-232" value="手动录入：用户每日手动记录&lt;div&gt;自动同步：对接穿戴设备，自动获取连续监测数据&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-5" y="576" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-233" value="诚信服务，客户至上，属于本店所&lt;br&gt;有修改责任范围内的问题，一律包&lt;div&gt;修，直至客户满意&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-12" y="895" width="327" height="74" as="geometry" />
