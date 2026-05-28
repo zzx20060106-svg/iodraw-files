@@ -65,7 +65,7 @@
           <mxGeometry x="-42" y="835" width="332" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-231" value="中医评估：用户填写问卷，系统自动判断体质&lt;div&gt;西医评估：用户录入或同步西医临床指标&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-50" y="300" width="400" height="50" as="geometry" />
+          <mxGeometry x="-3" y="280" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-232" value="电子邮箱，QQ，或者旺旺在线传&lt;br&gt;输，不支持纸质邮寄" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-5" y="576" width="317" height="50" as="geometry" />
