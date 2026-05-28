@@ -92,7 +92,7 @@
           <mxGeometry x="890" y="1111.5" width="332" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-30" value="&lt;font style=&quot;font-weight: bold; font-size: 23px;&quot;&gt;智能健康干预&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;用药提醒&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;个性化健康方案&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;复诊预约&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="587" y="1290" width="332" height="110" as="geometry" />
+          <mxGeometry x="649" y="1260" width="162" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-31" value="&lt;b style=&quot;font-size: 18px&quot;&gt;标题&lt;br&gt;内容、内容、内容&lt;br&gt;内容、内容、内容&lt;br&gt;内容、内容、内容&lt;/b&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="218" y="1224" width="332" height="28" as="geometry" />
