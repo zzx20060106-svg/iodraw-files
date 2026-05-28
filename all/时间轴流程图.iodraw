@@ -1,6 +1,6 @@
 <mxfile agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" host="www.iodraw.com" version="24.7.17">
   <diagram name="Page-1" id="mNVoGO4bMPirZhvkFkvJ">
-    <mxGraphModel dx="1384" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1348" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-227" value="买家感觉满意并支付尾款" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#66FFFF;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="422" y="670" width="332" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ktdcQTFvYibY1Uf1pSOm-228" value="拍下相应宝贝支付定金" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#97D077;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ktdcQTFvYibY1Uf1pSOm-228" value="双重评估" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#97D077;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-39" y="219" width="332" height="43" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-229" value="将文章发给买家" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#FF99CC;gradientColor=none;fontSize=21;fontColor=#FFFFFF;strokeColor=none;fontStyle=1" parent="1" vertex="1">
