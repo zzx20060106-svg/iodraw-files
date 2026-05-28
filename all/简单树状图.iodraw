@@ -92,7 +92,7 @@
           <mxGeometry x="916.4" y="1116" width="332" height="28" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-30" value="&lt;font style=&quot;font-weight: bold; font-size: 23px;&quot;&gt;智能健康干预&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;用药提醒&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;个性化健康方案&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;复诊预约&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="649" y="1260" width="162" height="100" as="geometry" />
+          <mxGeometry x="250" y="670" width="162" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-31" value="&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;在线咨询与导诊&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;AI智能导诊&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;医患图文咨询&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;健康科普资讯&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="270" y="1203" width="172" height="96" as="geometry" />
