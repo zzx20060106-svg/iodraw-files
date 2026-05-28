@@ -74,13 +74,13 @@
           <mxGeometry x="-12" y="895" width="327" height="74" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-234" value="1.注册&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.录入基本信息&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="483" y="134" width="150" height="50" as="geometry" />
+          <mxGeometry x="430" y="134" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KSMDhPxvgQcWq4mFELN0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ktdcQTFvYibY1Uf1pSOm-235" target="ktdcQTFvYibY1Uf1pSOm-226">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-235" value="中医指导根据体质推送药膳食谱，养生功法" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="499" y="437" width="380" height="30" as="geometry" />
+          <mxGeometry x="430" y="440" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ktdcQTFvYibY1Uf1pSOm-236" value="1.文章绝对保密，服务完立马&lt;br&gt;销毁，绝不保存&lt;div&gt;2.确定方向本店将以最快速度&lt;br&gt;最高质量完成服务。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=19;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="494" y="727" width="281" height="123" as="geometry" />
