@@ -95,7 +95,7 @@
           <mxGeometry x="649" y="1260" width="162" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-31" value="&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;在线咨询与导诊&lt;/span&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;AI智能导诊&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;医患图文咨询&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;健康科普资讯&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="218" y="1224" width="332" height="28" as="geometry" />
+          <mxGeometry x="218" y="1224" width="172" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ELuROfRh7jPEYIWg2EeA-32" value="&lt;font style=&quot;font-weight: bold; font-size: 23px;&quot;&gt;个人中心&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;电子健康卡绑定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;家庭成员管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;隐私与授权设置&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="214" y="940" width="150" height="103" as="geometry" />
